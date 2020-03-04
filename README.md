@@ -13,5 +13,5 @@ Os projetos:
 
 | Nome                |  Descrição          | Habilidades |
 | ------------------- | ------------------- |-------------|
-|                     |                     |             |
+| Gerador de sitações |                     |             |
 |                     |                     |             |
