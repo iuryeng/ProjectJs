@@ -11,7 +11,7 @@ Os projetos:
 
 # Lista de Projetos
 
-## Projetos de nivel fácil
+## Tabela com projetos de nivel fácil
 
 
 | Nome                |  Descrição                        | Habilidades |
