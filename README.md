@@ -6,7 +6,7 @@ Os projetos:
 
 - São criados a partir de uma descrição clara e objetiva;
 - Possuem uma lista de diretrizes de como as demandas devem ser realizadas;
-- Contem um caso de uso para nortear o desenvolvimento da aplicação baseado  na história do usuário. 
+- Inclue um caso de uso para nortear o desenvolvimento da aplicação baseado  na história do usuário. 
 
 # Lista de Projetos
 
