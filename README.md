@@ -11,7 +11,7 @@ Os projetos:
 # Lista de Projetos
 
 
-| Nome                |  Descrição          | Habilidades |
-| ------------------- | ------------------- |-------------|
-| Gerador de sitações |                     |             |
-|                     |                     |             |
+| Nome                |  Descrição                        | Habilidades |
+| ------------------- | ----------------------------------| ------------|
+| Gerador de citações | Gere citações aleatórias          |             |
+|                     |                                   |             |
