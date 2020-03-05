@@ -37,3 +37,5 @@ Você deve usar apenas HTML, CSS e Javascript para implementar esta aplicação.
 ## Exemplo de aplicações
 
 [Calculadora Binária](https://pt.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
+[Multicalculadora](http://www.multicalculadora.com.br/converter-numero-binario-para-decimal/)
+
