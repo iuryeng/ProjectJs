@@ -15,7 +15,7 @@ Você deve usar apenas HTML, CSS e Javascript para implementar esta aplicação.
 
 -   [ ] Use um elemento input para receber um numero binário;
 -   [ ] Use um botão para calcular o resultado da conversão binário em decimal a partir de uma função;  
--   [ ] Use um elemnto input para exibir a resposta em decimal.
+-   [ ] Use um elemento input para exibir a resposta em decimal.
 
 **Decimal/Binário:** 
 
