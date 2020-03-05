@@ -38,4 +38,6 @@ Você deve usar apenas HTML, CSS e Javascript para implementar esta aplicação.
 
 [Calculadora Binária](https://pt.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 [Multicalculadora](http://www.multicalculadora.com.br/converter-numero-binario-para-decimal/)
+[CalculadoraBinaria@Carlos Diaz](https://codepen.io/hcdiaz4/pen/BKxNWM)
+
 
