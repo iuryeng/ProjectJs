@@ -1,6 +1,6 @@
 # Citações Randomicas
 
-**Tier:** 1-Beginner
+**Nível:** Iniciante
 
 É essencial par aum desenvolvedor web enteder o basico de manipulação de strings e uso do formato Json para armazenar e transmitir informações em formato texto. 
 
