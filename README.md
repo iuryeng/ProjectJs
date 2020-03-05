@@ -44,6 +44,8 @@ Os projetos:
 | Lei de Mendel       | Calculo genético                  |             |
 | Automato Finito     | Validação de cadeias em AFD       |             |
 | Pedras              | Descrição de pedras e gemas       |             |
+| Puzzle              | Jogue um jogo enigma              |             |
+| Função quadrada     | Resolva função do 2 grau          |             |
 
 
 
