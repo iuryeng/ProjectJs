@@ -24,17 +24,20 @@ Os projetos:
 | Lista de Compras    | Crie listas de compras            |             |
 | Repertorio          | Crie repertórios                  |             |
 | Criptografia App    | Gere textos criptografados        |             |
-| Notas Simples       | Crie anotações                    |             |
+| Notas Sonhos        | Crie anotações de sonhos          |             |
 | Json Converter      | Converta arquivos csv para Json   |             |
 | Plantas App         | Plantas e suas características    |             |
 | Data Contador       | Temporizador regressivo de eventos|             |
 | Contador de Palavras| Conte as palavras de um texto     |             |
 | Tarot Game          | Jogue  cartas de tarot            |             |
 | Descrição tarot     | https://br.pinterest.com/pin/495747871484037723/          |             |
+| Astrologia          | Veja sua sorte Hoje               |             |
 | Dado RPG            | Jogue  dados de RPG               |             |
 | Tabela de Nutrição  | Crie tabelas com alimentos        |             |
 | Academia Check      | Check seus treinos de academia    |             |
 | Livros              | Pesquisa de Livros                |             |
+| Receitas Veganas    | Sortei a receita vegana do dia    |             |
+| Registro de Humor   | Registre seu calendario de humor  |             |
  
 ## Tabela com projetos de nivel Intermediário
 
@@ -43,7 +46,15 @@ Os projetos:
 | ------------------- | ----------------------------------| ------------|
 | Calendário          | Calendário de eventos             |             |
 | Lua                 | Observe os parâmetros lunares     |             |
+| Lei de Mendel       | Calculo genético                  |             |
+| Time Line Filosofia | Veja a time line de filosofos     |             |
 
+
+## Tabela com projetos de nivel Dificil
+
+| Nome                |  Descrição                        | Habilidades |
+| ------------------- | ----------------------------------| ------------|
+| Automato Finito     | Validação de cadeias em AFD       |             |
 
 
 
