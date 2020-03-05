@@ -34,7 +34,7 @@ Você deve usar apenas HTML, CSS e Javascript para implementar esta aplicação.
 [Codificação binária decimal](https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_bin%C3%A1ria_decimal)
 
 
-## Exemplo de aplicações
+## Exemplo de projetos
 
 [Calculadora Binária](https://pt.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 [Multicalculadora](http://www.multicalculadora.com.br/converter-numero-binario-para-decimal/)
