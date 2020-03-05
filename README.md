@@ -16,5 +16,17 @@ Os projetos:
 
 | Nome                |  Descrição                        | Habilidades |
 | ------------------- | ----------------------------------| ------------|
-| Gerador de citações | Gere citações aleatórias          |             |
-|                     |                                   |             |
+| Citações Estoicas   | Gere citações aleatórias          |             |
+| Calculadora Binária | Converta números binários         |             |
+| Juros Idea          | Calcule ideias de juros           |             |
+| Clima App           | Investigue o clima de cidades     |             |
+| Quiz                | Jogo de perguntas e respostas     |             |
+| Lista de Compras    | Crie listas de compras            |             |
+| Criptografia App    | Gere textos criptografados        |             |
+| Notas Simples       | Crie anotações                    |             |
+| Json Converter      | Converta arquivos csv para Json   |             |
+| Plantas App         | Plantas e suas características    |             |
+| Data Contador       | Temporizador regressivo de eventos|             |
+| Contador de Palavras| Conte as palavras de um texto     |             |
+
+
