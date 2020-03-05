@@ -31,7 +31,7 @@ Os projetos:
 | Contador de Palavras| Conte as palavras de um texto     |             |
 | Tarot Game          | Jogue  cartas de tarot            |             |
 | Descrição tarot     | https://br.pinterest.com/pin/495747871484037723/          |             |
-| Astrologia          | Veja sua sorte Hoje               |             |
+| Bola de cristal     | Veja seu futuro                   |             |
 | Dado RPG            | Jogue  dados de RPG               |             |
 | Tabela de Nutrição  | Crie tabelas com alimentos        |             |
 | Academia Check      | Check seus treinos de academia    |             |
