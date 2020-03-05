@@ -7,11 +7,11 @@ Os projetos:
 - São criados a partir de uma descrição clara e objetiva;
 - Possuem uma lista de diretrizes de como as habilidades técnicas devem utilizadas;
 - Inclue um caso de uso para nortear o desenvolvimento da aplicação baseado na história do usuário.
-- Estão separados por níveis de dificuldade. 
+
 
 # Lista de Projetos
 
-## Tabela com projetos de nivel fácil
+
 
 
 | Nome                |  Descrição                        | Habilidades |
@@ -38,22 +38,10 @@ Os projetos:
 | Livros              | Pesquisa de Livros                |             |
 | Receitas Veganas    | Sortei a receita vegana do dia    |             |
 | Registro de Humor   | Registre seu calendario de humor  |             |
- 
-## Tabela com projetos de nivel Intermediário
-
-
-| Nome                |  Descrição                        | Habilidades |
-| ------------------- | ----------------------------------| ------------|
+| Time Line Filosofia | Veja a time line de filosofos     |             |
 | Calendário          | Calendário de eventos             |             |
 | Lua                 | Observe os parâmetros lunares     |             |
 | Lei de Mendel       | Calculo genético                  |             |
-| Time Line Filosofia | Veja a time line de filosofos     |             |
-
-
-## Tabela com projetos de nivel Dificil
-
-| Nome                |  Descrição                        | Habilidades |
-| ------------------- | ----------------------------------| ------------|
 | Automato Finito     | Validação de cadeias em AFD       |             |
 
 
