@@ -2,9 +2,7 @@
 
 **Nivel:** Iniciante
 
-É importante para um engenheiro de computação saber converter numeros de uma  binários em decimealmanipulating
-images since rich web applications rely on images to add value to the user
-interface and user experience (UI/UX).
+É importante para um engenheiro de computação saber converter numeros de uma  binários em decimeal
 
 Calculadora binária explora os aspectos de conversão... . Esta aplicação mostra uma
 tela semelhante a uma calculadora contendo ... Usando um botão resultado ...
@@ -25,7 +23,7 @@ Você deve usar apenas HTML, CSS e Javascript para implementar esta aplicação.
 
 ## Links úteis 
 
-- [Codificação binária decimal](https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_bin%C3%A1ria_decimal)
+[Codificação binária decimal](https://pt.wikipedia.org/wiki/Codifica%C3%A7%C3%A3o_bin%C3%A1ria_decimal)
 
 
 ## Exemplo de aplicações
