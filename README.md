@@ -30,6 +30,7 @@ Os projetos:
 | Data Contador       | Temporizador regressivo de eventos|             |
 | Contador de Palavras| Conte as palavras de um texto     |             |
 | Tarot Game          | Jogue  cartas de tarot            |             |
+| Gematria            | Analise palavras em hebraico      |             |
 | Descrição tarot     | https://br.pinterest.com/pin/495747871484037723/          |             |
 | Bola de cristal     | Veja seu futuro                   |             |
 | Dado RPG            | Jogue  dados de RPG               |             |
