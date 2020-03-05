@@ -43,6 +43,7 @@ Os projetos:
 | Lua                 | Observe os parâmetros lunares     |             |
 | Lei de Mendel       | Calculo genético                  |             |
 | Automato Finito     | Validação de cadeias em AFD       |             |
+| Pedras              | Descrição de pedras e gemas       |             |
 
 
 
