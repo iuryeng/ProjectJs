@@ -16,7 +16,7 @@ Os projetos:
 
 | Nome                |  Descrição                        | Habilidades |
 | ------------------- | ----------------------------------| ------------|
-| Citações Estoicas   | Gere citações aleatórias          |             |
+| Citações Randomicas | Gere citações aleatórias          |             |
 | Calculadora Binária | Converta números binários         |             |
 | Juros Idea          | Calcule ideias de juros           |             |
 | Clima App           | Investigue o clima de cidades     |             |
