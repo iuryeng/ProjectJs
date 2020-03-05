@@ -1,24 +1,32 @@
 # Calculadora Binária 
 
-**Nivel:** Iniciante
+**Nível:** Iniciante
 
-É importante para um engenheiro de computação saber converter numeros de uma  binários em decimeal
+A codificação binária decimal e/ou codificação binária, também conhecida como BCD (Binary-coded decimal), é um sistema de numeração muito utilizado na Informática, assim como na Matemática, e em sistemas digitais eletrônicos.
 
-Calculadora binária explora os aspectos de conversão... . Esta aplicação mostra uma
-tela semelhante a uma calculadora contendo ... Usando um botão resultado ...
+Calculadora binária explora os aspectos de conversão binário/decimal e decimal/binário. Esta aplicação mostra dois campos nos quais o usuário pode fornecer o número decimal e receber uma respostas em número binário ou fornecer um número binário e receber uma resposta em decimal.
 
 Você deve usar apenas HTML, CSS e Javascript para implementar esta aplicação.
 
 
 ## Especificação Técnica
 
--   [ ] Use um elemento input para receber um numero binário
--   [ ] Use um botão para calcular o resultado da conversão binário em decimal 
--   [ ] Use um ...
+**Binário/Decimal:** 
+
+-   [ ] Use um elemento input para receber um numero binário;
+-   [ ] Use um botão para calcular o resultado da conversão binário em decimal a partir de uma função;  
+-   [ ] Use um elemnto input para exibir a resposta em decimal.
+
+**Decimal/Binário:** 
+
+-   [ ] Use um elemento input para receber um numero decimal;
+-   [ ] Use um botão para calcular o resultado da conversão decimal em binário a partir de uma função;  
+-   [ ] Use um elemento input para exebir a resposta com o número em binário.
 
 ## Caso de Uso 
 
 -   [ ] O usuário é capaz de converter um número binário em decimal
+-   [ ] O usuário é capaz de converter um número decimal em binário
 
 
 ## Links úteis 
