@@ -8,7 +8,7 @@ Citações Aleatórias explora as propriedades de manipulação de dados estrutu
 
 Para aimplementar esta aplicação usou-se apenas HTML, CSS e Javascript
 
-**Habilidades:** Manipulação DOM, funções, estilo css, json.
+**Habilidades:** DOM Manipulation, Functios, Random Math, Json, JavaScript CSS Selectors.
 
 
 
