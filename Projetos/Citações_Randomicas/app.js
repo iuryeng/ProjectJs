@@ -1,23 +1,28 @@
- // Variáveis Globais
+//Autor: Iury Coelho
+//Feito em :06/03/2020
+//Propósito: Geração de citações randômicas 
 
+
+
+// Variáveis Globais
 const botao_gerar_citacao = document.querySelector("#gerar_citacao");
 const total_quotes = document.getElementById("p0");
 const random_quote = document.getElementById("p1");
 const random_author = document.getElementById("p2");
 const quotes = [
 {
-	quote:"A única coisa sobre a qual você tem controle é a sua mente. E isso lhe garante poder suficiente porque a sua mente é origem de todas as suas escolhas, ações e percepções",
-	author:"Epicteto",
+    quote:"A única coisa sobre a qual você tem controle é a sua mente. E isso lhe garante poder suficiente porque a sua mente é origem de todas as suas escolhas, ações e percepções",
+    author:"Epicteto",
 },
 
 {
-	quote:"Em todas as coisas, devemos tentar tornar-nos tão gratos quanto possível.",
-	author:"Sênica",
+    quote:"Em todas as coisas, devemos tentar tornar-nos tão gratos quanto possível.",
+    author:"Sênica",
 },
 
 {
-	quote:"A cada dia que surge, receba-o como o melhor de todos os dias e torne-o sua própria posse. Devemos aproveitar o que vai embora.",
-	author:"Sêneca",
+    quote:"A cada dia que surge, receba-o como o melhor de todos os dias e torne-o sua própria posse. Devemos aproveitar o que vai embora.",
+    author:"Sêneca",
 },
 
 {
