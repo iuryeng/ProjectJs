@@ -6,22 +6,9 @@
 
 Citações Aleatórias explora as propriedades de manipulação de dados estruturados em formato json. Esta aplicação solicita que você acesse elementos incorporados em um aquivo json e os exiba de maneira aleatória. A partir de um botão, o usuário é capaz de provocar  uma alteração no autor e no texto exibido na tela. 
 
-Você dve usar apenas HTML, CSS e Javascript par aimplementar esta aplicação.
+Para aimplementar esta aplicação usou-se apenas HTML, CSS e Javascript
 
-## Especificação Técnica
+**Habilidades:** Manipulação DOM, funções, estilo css, json.
 
--   [ ] 
--   [ ] 
 
-## Caso de uso 
 
--   [ ] O usuário é capaz de gerar citações aleatórias a partir de um botão.
-
-## Links Úteis
-
--   [Json MDN](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/JSON)
--   [Numero Aleatório](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-
-## Exemplos de projetos
-
-[Citações Aleatórias](https://citacoes.in/citacoes/citacao-aleatoria/)
