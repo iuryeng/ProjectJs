@@ -280,22 +280,16 @@ const quotes = [
 
 var size_quotes = quotes.length;
 
-
 // Funções
-
-// gerar_citacao
 function gerar_citacao(){
-
-var random = Math.floor((Math.random() * size_quotes) + 0);     
-random_quote.innerHTML = `"${quotes[random].quote}"`;
-random_author.innerHTML = quotes[random].author; 
-total_quotes.innerHTML = `Sorte-Citações: ${random}/${size_quotes}`;
+	
+	var random = Math.floor((Math.random() * size_quotes) + 0);     
+	random_quote.innerHTML = `"${quotes[random].quote}"`;
+	random_author.innerHTML = quotes[random].author; 
+	total_quotes.innerHTML = `Sorte-Citações: ${random}/${size_quotes}`;
 
         
 };
-
-
-
 
 // Rotinas 
 botao_gerar_citacao.addEventListener('click',gerar_citacao);
