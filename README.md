@@ -10,7 +10,7 @@ Repositório de projetos javascript.
 
 | Nome                |  Descrição                        | Habilidades |
 | ------------------- | ----------------------------------| ------------|
-| Citações Randomicas | Gere citações aleatórias          |DOM Manipulation, Functios, Random Math, Json, JavaScript CSS Selectors.             |
+| Citações Randomicas | Gere citações aleatórias          |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.             |
 | Calculadora Binária | Converta números binários         |             |
 | Juros Idea          | Calcule ideias de juros           |             |
 | Clima App           | Investigue o clima de cidades     |             |
