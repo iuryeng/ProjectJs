@@ -4,13 +4,13 @@ Repositório de projetos javascript.
 
 
 # Lista de Projetos
+https://codepen.io/iuryeng/pen/VwLrbbY
 
 
 
-
-| Nome                |  Descrição                        | Habilidades |
-| ------------------- | ----------------------------------| ------------|
-| Citações Randomicas | Gere citações aleatórias          |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.             |
+| Nome                |  Descrição                        | Habilidades |App|
+| ------------------- | ----------------------------------| ------------|---|
+| Citações Randomicas | Gere citações aleatórias          |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.||
 | Calculadora Binária | Converta números binários         |             |
 | Juros Idea          | Calcule ideias de juros           |             |
 | Clima App           | Investigue o clima de cidades     |             |
