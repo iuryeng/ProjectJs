@@ -25,7 +25,7 @@ Repositório de projetos javascript.
 | Contador de Palavras| Conte as palavras de um texto     |             |
 | Tarot Game          | Jogue  cartas de tarot            |             |
 | Gematria            | Analise palavras em hebraico      |             |
-| Descrição tarot     | https://br.pinterest.com/pin/495747871484037723/          |             |
+| Descrição tarot     | Entenda cartas de tarot    |             |
 | Bola de cristal     | Veja seu futuro                   |             |
 | Dado RPG            | Jogue  dados de RPG               |             |
 | Tabela de Nutrição  | Crie tabelas com alimentos        |             |
