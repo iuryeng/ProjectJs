@@ -1,5 +1,6 @@
 # ProjectJs
 Repositório de projetos javascript.
+Autor: Iury Coelho
 
 
 
