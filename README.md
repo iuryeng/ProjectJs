@@ -10,7 +10,7 @@ Repositório de projetos javascript.
 
 | Nome                |  Descrição                 | Habilidades |App|
 | ------------------- | ---------------------------| ------------|---|
-| Citações Randomicas | Gere citações aleatórias   |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.|[R Stoic Quotes](https://codepen.io/iuryeng/pen/VwLrbbY)|
+| Citações Randomicas | Gere citações aleatórias   |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.|[Random Stoic Quotes](https://codepen.io/iuryeng/pen/VwLrbbY)|
 | Calculadora Binária | Converta números binários  |             |
 | Juros Idea          | Calcule ideias de juros    |             |
 | Clima App           | Investigue o clima de cidades     |             |
