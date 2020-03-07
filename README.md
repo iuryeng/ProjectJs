@@ -42,6 +42,7 @@ Autor: Iury Coelho
 | Puzzle              | Jogue um jogo enigma              |             |
 | Função quadrada     | Resolva função do 2 grau          |             |
 | Simplificação de linha     | RDP Line Simplification Algorithm         |             |
+| Coverter color RGB | Converta código RGB em Cores        |             |
 
 
 
