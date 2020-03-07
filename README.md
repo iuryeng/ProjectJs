@@ -8,9 +8,9 @@ Autor: Iury Coelho
 
 
 
-| Nome                |  Descrição                 | Habilidades |App|
-| ------------------- | ---------------------------| ------------|---|
-| Citações Randomicas | Gere citações aleatórias   |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.|[Random Stoic Quotes](https://codepen.io/iuryeng/pen/VwLrbbY)|
+| App               |  Descrição                 | Habilidades |
+| ------------------- | ---------------------------| ------------|
+| [Random Stoic Quotes](https://codepen.io/iuryeng/pen/VwLrbbY)| | Gere citações aleatórias   |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.|
 | Calculadora Binária | Converta números binários  |             |
 | Juros Idea          | Calcule ideias de juros    |             |
 | Clima App           | Investigue o clima de cidades     |             |
