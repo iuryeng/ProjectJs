@@ -44,6 +44,7 @@ Autor: Iury Coelho
 | Simplificação de linha     | RDP Line Simplification Algorithm         |             |
 | Coverter color RGB | Converta código RGB em Cores        |             | |
 | Password Generation| Gere passwords       |             | |
+| Tolerance LSD| Calcuile tolerancia de LSD      |             | |
 
 
 
