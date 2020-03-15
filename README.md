@@ -45,6 +45,7 @@ Autor: Iury Coelho
 | Coverter color RGB | Converta código RGB em Cores        |             | |
 | Password Generation| Gere passwords       |             | |
 | Tolerance LSD| Calcuile tolerancia de LSD      |             | |
+| Memory Game| Calcuile tolerancia de LSD      |             | |
 
 
 
