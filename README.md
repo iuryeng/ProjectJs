@@ -12,7 +12,7 @@ Autor: Iury Coelho
 |[Random Stoic Quotes](https://codepen.io/iuryeng/pen/VwLrbbY)  |Gere citações aleatórias  |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.                                  |
 | [BinDec-Calculator](https://codepen.io/iuryeng/pen/qBdVKNv)| Converta números binários  |             |
 | [Epicteto Tribute Page](https://codepen.io/iuryeng/pen/zYGjMza) | Tributo a Epicteto: O escravo de espirito livre    |             |
-| [Survey Form Astrologic](https://codepen.io/iuryeng/pen/oNXyQKr) | Tributo a Epicteto: O escravo de espirito livre    |             |
+| [Survey Form Astrologic](https://codepen.io/iuryeng/pen/oNXyQKr) | Formulario de pesquisa astrologica    |             |
 | Juros Idea          | Calcule ideias de juros    |             |
 | Clima App           | Investigue o clima de cidades     |             |
 | Quiz                | Jogo de perguntas e respostas     |             |
