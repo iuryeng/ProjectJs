@@ -14,7 +14,7 @@ Autor: Iury Coelho
 | [Epicteto Tribute Page](https://codepen.io/iuryeng/pen/zYGjMza) | Tributo a Epicteto: O escravo de espirito livre    |             |
 | [Survey Form Astrologic](https://codepen.io/iuryeng/pen/oNXyQKr) | Formulário de pesquisa astrologica    |             |
 | [Technical Documentation](https://codepen.io/iurycoelho/pen/oNXMmPw) | Documentação técnica    |             |
-| [Product Landing Page](https://codepen.io/iurycoelho/pen/XWbPZWG) | Documentação técnica    |             |
+| [Product Landing Page](https://codepen.io/iurycoelho/pen/XWbPZWG) |     |             |
 | Juros Idea          | Calcule ideias de juros    |             |
 | Clima App           | Investigue o clima de cidades     |             |
 | Quiz                | Jogo de perguntas e respostas     |             |
