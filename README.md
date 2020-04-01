@@ -50,7 +50,11 @@ Autor: Iury Coelho
 | Coverter color RGB | Converta código RGB em Cores        |             | |
 | Password Generation| Gere passwords       |             | |
 | Tolerance LSD| Calcuile tolerancia de LSD      |             | |
-| Memory Game| Calcuile tolerancia de LSD      |             | |
+| Memory Game|      |             | |
+| Eneagrama| Descubra seu tipo de personalidade  |             | |
+| Briot ruffini| Divisão de polinômios     |             | |
+| Hamming code |    |             | |
+| Matrix Arduino |Gere códicos para matrix de led 8X8   |             | |
 
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
