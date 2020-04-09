@@ -17,6 +17,7 @@ Autor: Iury Coelho
 | [Technical Documentation](https://codepen.io/iurycoelho/pen/oNXMmPw) | Documentação técnica    |             |
 | [Product Landing Page](https://codepen.io/iurycoelho/pen/XWbPZWG) | Landing Page     |             |
 | [Personal Portfolio Webpage](https://codepen.io/iurycoelho/pen/BaNGQQp) | Portfolio     |             |
+| [Cannabis Search]() | Informações sobre tipos de cannabis     |             |
 | Juros Idea          | Calcule ideias de juros    |             |
 | Clima App           | Investigue o clima de cidades     |             |
 | Quiz                | Jogo de perguntas e respostas     |             |
