@@ -9,7 +9,7 @@ Autor: Iury Coelho
 
 | App                                                           |  Descrição               | Habilidades |
 | --------------------------------------------------------------|--------------------------| ------------|
-|[covid-dash-world]()|  casos covid-19 no mundo| API, JSON, JavaScript, HTM, CSS, Chart.js |
+|[Covid-Dash-World]()|  casos covid-19 no mundo| API, JSON, JavaScript, HTM, CSS, Chart.js |
 |[Covid-19-Brasil-Tracker](https://covid-19-brasil.github.io/tracker/)|  casos covid-19 no brasil| JSON, JavaScript, HTM, CSS, Chart.js |
 |[Random Stoic Quotes](https://codepen.io/iuryeng/pen/VwLrbbY)  |Gere citações aleatórias  |DOM Manipulation, Functions, Random Math, Json, JavaScript CSS Selectors.                                  |
 | [BinDec-Calculator](https://codepen.io/iuryeng/pen/qBdVKNv)| Converta números binários  |             |
@@ -60,7 +60,7 @@ Autor: Iury Coelho
 
 
 
-- Copyright 2020 © <a href="">Iury Coelho</a>.
+- Copyright 2020 © <a href="www.freecodecamp.org/iurycoelho" target="_blank">Iury Coelho</a>.
 
 
 
