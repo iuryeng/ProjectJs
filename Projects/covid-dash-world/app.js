@@ -1,5 +1,5 @@
 
-
+/* GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - Copyright(c) 2020 Iury Coelho*/
 
 let name;//armazena o nome dos paises 
 let inforCases;//armazena quantidade de casos  
