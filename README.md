@@ -60,7 +60,7 @@ Autor: Iury Coelho
 
 
 
-- Copyright 2020 © <a href="www.freecodecamp.org/iurycoelho" target="_blank">Iury Coelho</a>.
+- Copyright 2020 © Iury Coelho
 
 
 
