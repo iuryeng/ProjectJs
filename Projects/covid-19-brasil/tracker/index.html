@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - Copyright(c) 2020 Iury Coelho-->
+<html>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+	<script type="text/javascript" src="main.js"></script>
+	<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
+	<script src="https://momentjs.com/downloads/moment.min.js"></script>
+	<script src="https://momentjs.com/downloads/moment-timezone-with-data-10-year-range.js"></script>
+	<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117039075-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-117039075-2');
+		</script>
+		<title>Covid-19 Brasil Infor</title>
+	</head>
+	<script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'G2G21JVL4');kofiwidget2.draw();</script>
+		<body>
+		<div class="header">
+			<i class="fas fa-virus fa-3x"></i>
+		  <h1>Covid-19 Brasil Infor</h1>		   
+		  <h2>Acompanhe os casos de infecção no Brasil</h2>	
+		  
+		<form class="form-references">
+			   <fieldset class="fieldset-references">
+			  <legend>Referências</legend>	 
+				  <p><span><a class="a-color" href="https://saude.gov.br/" target="_blank"><span class="panel confirmado">casos confirmados</span><span class="panel mortes">óbitos confirmados</span><!--<span class="panel mortalidade">taxa de mortalidade</span>--> ▶ Ministério da Saúde</a>. Atualizado em: 17-04-2020 14:02:31</span></p>
+				  <p>
+				  	<span>
+				  		
+				  			<span class="panel informados">casos suspeitos</span>
+						<span class="panel maior-letalidade">óbitos em análise</span>
+<span class="panel recuperados">recuperados</span> ▶ <a class="a-color" href="https://rapidapi.com/astsiatsko/api/coronavirus-monitor/endpoints">Coronavirus Monitor</a> Updated 
+				  	</span> 
+				  	<span id="atualizacao-api"></span></p>
+			   </fieldset>
+		  </form>
+
+		</div>
+		<fieldset class="fieldset-indicators">
+		    <legend>Painel dos Casos</legend>
+			    <div class="row-top-indicators">  		      
+				     <div class="column-top-indicators" style="color: #00539F;">
+				    	<i class="fas fa-search-location fa-2x"></i>
+					    <h2>Casos Suspeitos</h2>
+					    <p id="num-suspeitos" class="p-top-nav" ></p>
+				      </div>
+				    <div class="column-top-indicators" style="color: darkslateblue;">
+				    	<i class="fas fa-dizzy fa-2x"></i>
+					    <h2>Óbitos emAnálise</h2>
+					    <p id="obitos-informados" class="p-top-nav" ></p>
+				    </div>
+				     <div class="column-top-indicators" style="color: mediumturquoise;">
+				    	<i class="fas fa-clipboard-check fa-2x"></i>
+					    <h2>Casos Confirmados</h2>
+					     <p id="num-confirmado" class="p-top-nav" >30425</p>
+					    <!--<p id="num-confirmado" class="p-top-nav" ></p>-->
+				    </div>
+				    				  
+				    <div class="column-top-indicators" style="color:lightcoral">
+				    	<i class="fas fa-skull-crossbones fa-2x"></i>
+					    <h2>Óbitos Confirmados</h2>
+					    <p id="num-obito" class="p-top-nav">1924</p>
+					    <!--<p id="num-obito" class="p-top-nav"></p>-->
+				    </div>
+				    <!--<div class="column-top-indicators" style="color:#ffa91c">
+				    	<i class="fas fa-percent fa-2x"></i>
+					    <h2>Taxa de Mortalidade</h2>
+					    <p class="p-top-nav">6,1%</p>
+				    </div>--> 
+				    <div class="column-top-indicators" style="color:mediumseagreen">
+				    	<i class="far fa-smile fa-2x"></i>
+					    <h2>Casos Recuperados</h2>
+					    <p id ="recuperados"class="p-top-nav"></p>
+				    </div> 
+				   <!--<div class="column-top-indicators" style="color:darkslateblue">
+				    	<i class="fas fa-dizzy fa-2x"></i>
+					    <h2>Maioria</h2>
+					    <p id="maior-letalidade" class="p-top-nav"></p>			    
+				    </div>--> 			   
+			    </div>
+	    </fieldset>
+		<div class="topnav">
+			
+			<!--<a href="https://www.saude.gov.br/images/pdf/2020/marco/29/29----COVID.pdf" target="_blank"><i class="fas fa-chart-line fa-3x"></i></a>-->
+			<a href="https://coronavirus.saude.gov.br/sobre-a-doenca" target="_blank"><i class="fas fa-laptop-medical fa-3x"></i></a>
+			<a href="https://www.youtube.com/watch?v=aQCnF1yY7Uc" target="_blank"><i class="fas fa-head-side-mask fa-3x"></i></a>  
+		</div>
+		<div class="row">
+		    <div class="column">
+			    <table id="covid-table" class="covid-table-indicator">
+			    	<tr>
+			    		<th>UF</th>
+			    		<th>ESTADO</th>
+			    		<th>CONFIRMADOS</th>
+			    		<th>ÓBITOS</th>
+			    	</tr>    	
+			    </table>
+			  </div>  
+			<div class="column-chart">    
+			    <canvas  id="covidChart" ></canvas>  		      
+		    </div> 		
+		     <div class="column-chart">    
+			    <canvas id="occurrenceChart" height="250"></canvas>	      
+		    </div> 
+		    <div class="column-chart">    
+			    <canvas id="regionChart" height="420"></canvas>	      
+		    </div> 
+		</div>
+	</body>	
+	<footer>
+		<p style="text-align: center;"><i class="fas fa-globe"></i><spam class="panel informados" ><a href="https://covid-19-brasil.github.io">open letter</a></spam> for World by <a style="color:white" href="https://www.freecodecamp.org/iurycoelho" target="_blank">@iurycoelho</a></p>		
+	</footer>
+</html>
+
+
+
+
+
+
+
+
+
