@@ -4,4 +4,6 @@ Copyright 2020 © <a href="https://www.freecodecamp.org/iurycoelho">Iury Coelho<
 
 Acesse <a href="https://iuryeng.github.io/Projects/covid-dash-world/">Coronavírus Dashboard Monitor World</a>.
 
+![image app](covid-dash-word.png)
+
 
