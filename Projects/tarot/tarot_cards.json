@@ -9,12 +9,41 @@
         "element":"Ar",
         "kabbalitic_letter":"Aleph",
         "meaning_kabbalistic_letter":"Ox",        
-        "planetary_correspondence":"Uranus",
+        "planetary_correspondence":"Urano",
         "animals":"Águia, Homem",
         "stone":"Topázio",
         "explanation":"Um jovem está parado na beira do penhasco com um cachorro branco o acompanhando. Ele está segurando uma varinha preta que é um símbolo de poder. Ele está usando uma coroa de louros na cabeça que mostra otimismo pelo sucesso. A pena vermelha mostra seu desejo de aventura. Ele tem seus talentos e habilidades em sua mochila. As altas montanhas ao fundo mostram seus objetivos e inspiração. O sol branco mostra a clareza de propósito.        O número da carta do tolo é 0 que simboliza potencial ilimitado. O jovem tolo está segurando uma rosa branca que retrata sua inocência. Ele está embarcando em uma nova jornada de crescimento pessoal, mas não tem conhecimento dos desafios que ainda estão por vir. Ele é cheio de vitalidade, energia e confiança."
+    },
+    {
+        "number": "1",
+        "image":"https://i.pinimg.com/564x/2b/15/5e/2b155e530ec1a5198f1b8bd917295d90.jpg",
+        "upright":"Habilidade, força de vontade, manifestação, desenvoltura, ação inspirada",
+        "reversed":"",
+        "name":"O Mágico",    
+        "element":"Ar",
+        "kabbalitic_letter":"Beth",
+        "meaning_kabbalistic_letter":"House",        
+        "planetary_correspondence":"Mercúrio",
+        "animals":"Andorinha, Ibis, Macaco",
+        "stone":"Opala, Ágata",
+        "explanation":" Ele tem todos os elementos dos quatro naipes de arcanos menores em sua mesa. A moeda representa posse, recursos, fisicalidade e finanças, a varinha representa a vontade, paixão, inspiração e essa faísca, a espada representa intelecto e lógica e o cálice representa emoções, relacionamentos e sexualidade."
+    },
+    {
+        "number": "2",
+        "image":"https://i.pinimg.com/564x/dc/45/3f/dc453fceb88d2f66e3055e44be868130.jpg",
+        "upright":"Intuição, conhecimento sagrado, energia feminina, mente subconsciente, segredos, sabedoria",
+        "reversed":"",
+        "name":"A alta sacerdotisa",    
+        "element":"Água",
+        "kabbalitic_letter":"Gimel",
+        "meaning_kabbalistic_letter":"Camel",        
+        "planetary_correspondence":"",
+        "animals":"Camelo, Cão, Cegonha",
+        "stone":"Pedra da Lua, Pérola, Cristal",
+        "explanation":"The High Priestess is sitting in a passive and Serene manner between two black and white pillars with the letters B and J written on them. The Pillars are Boaz and Jachin. These pillars represent the opposites, severity, and mercy, masculine and feminine, passive and aggressive, black and white. The seated figure of The High Priestess brings the balance among the extremes. There is drape behind the high priestess with pomegranates on it which are a symbol of the feminine principle, fertility and female sexuality. She has a crescent moon in her feet and an ocean in the background.  The number two represents the balance of dualities. The cross also represents balance. The crown on her had represents three phases of the moon, waxing full and waning. That represents birth, life, death or the feminine archetypes of the maiden, mother, and crone. She holds a scroll in her hand that contains the divine law."
     }
    
   ]
 }
+
 
