@@ -2,7 +2,7 @@
   "cards": [
     {
         "number": "0 ou 22",
-        "image":"https://i.pinimg.com/564x/94/5d/7f/945d7fc775891f0a4281f29c5c04e65a.jpg",
+        "image":"https://i.pinimg.com/564x/3f/b3/de/3fb3ded84561a520e8cbf95acd4f35ae.jpg",
         "upright":"Inocência, liberdade, espontaneidade, espírito livre, novo começo, desejo de começar",
         "reversed":"Estupidez, negligência, retenção, imprudência, correr riscos, ser ingênuo",
         "name":" O Louco",    
@@ -15,7 +15,7 @@
         "explanation":"Um jovem está parado na beira do penhasco com um cachorro branco o acompanhando. Ele está segurando uma varinha preta que é um símbolo de poder. Ele está usando uma coroa de louros na cabeça que mostra otimismo pelo sucesso. A pena vermelha mostra seu desejo de aventura. Ele tem seus talentos e habilidades em sua mochila. As altas montanhas ao fundo mostram seus objetivos e inspiração. O sol branco mostra a clareza de propósito.        O número da carta do tolo é 0 que simboliza potencial ilimitado. O jovem tolo está segurando uma rosa branca que retrata sua inocência. Ele está embarcando em uma nova jornada de crescimento pessoal, mas não tem conhecimento dos desafios que ainda estão por vir. Ele é cheio de vitalidade, energia e confiança."
     },
     {
-        "number": "1",
+        "number": "I",
         "image":"https://i.pinimg.com/564x/2b/15/5e/2b155e530ec1a5198f1b8bd917295d90.jpg",
         "upright":"Habilidade, força de vontade, manifestação, desenvoltura, ação inspirada",
         "reversed":"",
@@ -29,7 +29,7 @@
         "explanation":" Ele tem todos os elementos dos quatro naipes de arcanos menores em sua mesa. A moeda representa posse, recursos, fisicalidade e finanças, a varinha representa a vontade, paixão, inspiração e essa faísca, a espada representa intelecto e lógica e o cálice representa emoções, relacionamentos e sexualidade."
     },
     {
-        "number": "2",
+        "number": "II",
         "image":"https://i.pinimg.com/564x/dc/45/3f/dc453fceb88d2f66e3055e44be868130.jpg",
         "upright":"Intuição, conhecimento sagrado, energia feminina, mente subconsciente, segredos, sabedoria",
         "reversed":"",
@@ -41,9 +41,64 @@
         "animals":"Camelo, Cão, Cegonha",
         "stone":"Pedra da Lua, Pérola, Cristal",
         "explanation":"The High Priestess is sitting in a passive and Serene manner between two black and white pillars with the letters B and J written on them. The Pillars are Boaz and Jachin. These pillars represent the opposites, severity, and mercy, masculine and feminine, passive and aggressive, black and white. The seated figure of The High Priestess brings the balance among the extremes. There is drape behind the high priestess with pomegranates on it which are a symbol of the feminine principle, fertility and female sexuality. She has a crescent moon in her feet and an ocean in the background.  The number two represents the balance of dualities. The cross also represents balance. The crown on her had represents three phases of the moon, waxing full and waning. That represents birth, life, death or the feminine archetypes of the maiden, mother, and crone. She holds a scroll in her hand that contains the divine law."
+    },
+    {
+        "number": "III",
+        "image":"https://i0.wp.com/tarotparlor.com/wp-content/uploads/2019/12/empress.jpg",
+        "upright":"Beleza, feminilidade, amor, carinho, abundância, gravidez, criatividade",
+        "reversed":"",
+        "name":"A Imperatriz",    
+        "element":"Terra",
+        "kabbalitic_letter":"Daleth",
+        "meaning_kabbalistic_letter":"Door",        
+        "planetary_correspondence":"Vênus",
+        "animals":"Pardal, Pomba, Porca",
+        "stone":"Esmeralda, Turquesa",
+        "explanation":"A Imperatriz Grávida está sentada confortavelmente com um travesseiro vermelho apoiando-a nas costas. O travesseiro vermelho é um símbolo de conforto e sensualidade femininos. Ela está sentada entre um campo de trigo maduro, um símbolo de abundância, uma primavera e árvores ao seu redor. A primavera mostra refresco constante e as árvores são um símbolo de paz e serenidade. Ela é uma personificação da mãe natureza, feminina, criativa e fértil. Ela está usando um diadema com 12 estrelas representando os 12 signos do zodíaco; é um anel de casamento entre a terra e os céus. Cada pérola de seu colar representa um planeta. Seu escudo está perto de seus pés e isso tem o sinal de Vênus. As romãs em seu vestido são os símbolos da fertilidade. A colheita de trigo mostra abundância. O travesseiro é um símbolo de conforto e sensualidade feminina. Ela tem um cetro na mão com uma esfera no topo. Esse é um símbolo do poder feminino."
+    },
+    {
+        "number": "IV",
+        "image":"https://i.pinimg.com/564x/5d/05/b7/5d05b7290ffb328fe1ba9eeaf65707a1.jpg",
+        "upright":"Autoridade, estabelecimento, um homem dominante, masculino, sábio, pai, prático, controlador, masculino de uma sociedade patriarcal, experiente e poderoso",
+        "reversed":"",
+        "name":"O Imperador",    
+        "element":"Fogo",
+        "kabbalitic_letter":"He’",
+        "meaning_kabbalistic_letter":"Window",        
+        "planetary_correspondence":"",
+        "animals":"Carneiro, Coruja",
+        "stone":"Rubi",
+        "explanation":"O imperador está sentado em um trono feito de pedra. Isso representa sua autoridade e experiências passadas. Ele está segurando um cetro na mão com um símbolo de ankh é o símbolo egípcio da vida. Há um globo na mão esquerda que mostra seu poder e dominação. Ele está usando armadura por baixo de suas roupas, o que mostra que ele está se mantendo protegido. A cor vermelha de suas roupas representa paixão e raiva. Ele está usando uma coroa na cabeça que mostra sucesso e autoridade material. Existem 4 cabeças de carneiro esculpidas em seu trono. Ram simboliza Áries, que é o signo dominante da carta de tarô do imperador, um signo masculino, governado por Marte. Ele tem uma barba branca que representa sua idade, experiência e sabedoria. Este cartão mostra um pouco de água no fundo. A água representa suas emoções, mas elas são ocultas e muito equilibradas."
+    },
+    {
+        "number": "V",
+        "image":"https://i.pinimg.com/564x/a5/12/08/a5120808f23ac69d42c084fe9373d2e8.jpg",
+        "upright":"Crenças religiosas, conformidade, casamento, compartilhamento de conhecimento, fé cega",
+        "reversed":"",
+        "name":"O Hierofante",    
+        "element":"Terra",
+        "kabbalitic_letter":"Vau",
+        "meaning_kabbalistic_letter":" Nail",        
+        "planetary_correspondence":"",
+        "animals":"Touro",
+        "stone":"Topázio",
+        "explanation":"The Hierophant is seated on a stone throne between two grey pillars. These pillars are two opposing forces. These can be pillars of severity and mercy from the tree of life and can also be pillars of law and liberty. Some consider these pillars of obedience and disobedience.  There is an empty space between the pillars that shows that the knowledge shared by the Hierophant is open for all. Two fingers of the right hand of the Hierophant are pointing towards the heavens and two are pointing towards the earth. These symbolize that he is a bridge between the heavens and the earth. He is wearing a three-tiered diadem on his head that symbolizes his spiritual authority. Two worshipers are sitting in front of him. This card also depicts the relationship between the teacher and the pupils. The roses and lilies on the shirts of the worshipers symbolize purity and passion."
+    },
+    {
+        "number": "VI",
+        "image":"https://i.pinimg.com/236x/b1/d8/96/b1d896608bac05f0a481466641b54ba4.jpg",
+        "upright":"Relacionamento, amor, harmonia, valores, almas gêmeas, parceiros, vínculo forte, feitos um para o outro",
+        "reversed":"",
+        "name":"Os Enamorados",    
+        "element":"Ar",
+        "kabbalitic_letter":"Zain",
+        "meaning_kabbalistic_letter":"Sword",        
+        "planetary_correspondence":"",
+        "animals":"Magpie",
+        "stone":"Alexandrita, turmalina, mastro da Islândia",
+        "explanation":"Um homem e uma mulher nus estão parados nus no Jardim do Éden. Existe a Árvore do conhecimento por trás da mulher e a árvore da vida por trás do homem. A árvore da vida tem 12 chamas que representam os 12 signos do zodíaco. Há uma serpente enrolada em torno da árvore do conhecimento que mostra tentação, mas a mulher está olhando para o anjo e não para a cobra. As mulheres e o homem não estão usando nada, o que mostra que eles não têm nada a esconder um do outro. A imagem do anjo Rafael está acima de suas cabeças, dando-lhes bênçãos. Rafael é o anjo do ar. Há um sol enorme e quente por trás do anjo. O sol representa calor, alegria, energia, vitalidade e paixão. Se olharmos para as imagens do cartão, o cartão dos amantes dá a idéia de almas gêmeas. Duas pessoas que são feitas uma para a outra, as pessoas que não têm nada a esconder e que são atraídas uma pela outra. No nível pictórico, este é um cartão de amor, harmonia, paixão e atração, mas em um nível mais profundo, trata-se da conexão e harmonia entre polaridades. A mulher representa o lado emocional e o homem representa o lado lógico dentro de uma pessoa. Este também é um cartão sobre escolhas e também sobre harmonia. Se o consultante deseja escolher a lógica em vez das emoções ou as emoções sobre a lógica ou deseja prosseguir com a perfeita harmonia de ambos. Nos baralhos antigos, havia duas mulheres no cartão do amante ao lado do homem. Eles fazem claramente um cartão sobre escolhas."
     }
    
   ]
 }
-
 
