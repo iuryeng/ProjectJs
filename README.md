@@ -19,7 +19,7 @@ Autor: Iury Coelho
 | [Product Landing Page](https://codepen.io/iurycoelho/pen/XWbPZWG) | Landing Page     |             |
 | [Personal Portfolio Webpage](https://codepen.io/iurycoelho/pen/BaNGQQp) | Portfolio     |             |
 | [Cannabis Search]() | Informações sobre tipos de cannabis     | DOM Manipulation, Functions, API integration, JavaScript            |
-[comment]: <>| Juros Idea          | Calcule ideias de juros    |             |
+// Juros Idea          | Calcule ideias de juros    |             |>
 | Clima App           | Investigue o clima de cidades     |             |
 | Quiz                | Jogo de perguntas e respostas     |             |
 | Lista de Compras    | Crie listas de compras            |             |
